@@ -1,0 +1,10 @@
+﻿Flask
+Flask-Cors
+mysql-connector-python
+python-dotenv
+Pillow
+torch
+transformers
+pandas
+scikit-learn
+joblib
